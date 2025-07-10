@@ -1,7 +1,8 @@
-# Limpiador de Archivos Temporales para Windows
+# Temporary File Cleaner for Windows
 
-Este simple script de Batch está diseñado para automatizar la limpieza de archivos temporales en sistemas Windows. Elimina de forma segura los directorios %TEMP% y %WINDIR%\Prefetch para liberar espacio en disco y mejorar el rendimiento del sistema.
+This simple Batch script is designed to automate the cleaning of temporary files on Windows systems. It securely deletes the %TEMP% and %WINDIR%\Prefetch directories to free up disk space and improve system performance.
 
-**Cómo usarlo:**
-1. Guarda este script .bat.
-2. Ejecuta el archivo.
+## How to use:
+
+1.  Save this script as a .bat file.
+2.  Run the file.
